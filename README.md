@@ -34,3 +34,6 @@ Are you confused about tensor dimensions in PyTorch? This tutorial breaks down e
         <img src="./assets/thumbnail.png" height="85%" width="85%%"/>
     </a>
 </div>
+
+### Additional Resources
+https://medium.com/analytics-vidhya/an-intuitive-understanding-on-tensor-sum-dimension-with-pytorch-d9b0b6ebbae
